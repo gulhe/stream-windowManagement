@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 
-src="$(dirname "$0")"
+fullScriptPath=$(readlink -f "${0}")
+src="$(dirname "${fullScriptPath}")"
 export src
 
 trap 'kill 0' SIGINT;
