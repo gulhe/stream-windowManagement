@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 
 tput civis
-watch -t "./pretty.sh"
+watch -n 60 -t "./pretty.sh"
