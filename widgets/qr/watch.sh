@@ -6,5 +6,5 @@ while true
 do
   ./pretty.sh "$(( seed * 2 ))"
   ((++seed))
-  sleep .29 #becaus prime number I'll use primes in all sleep-ed scripts
+  sleep 3.07 #because prime number I'll use primes in all sleep-ed scripts
 done
