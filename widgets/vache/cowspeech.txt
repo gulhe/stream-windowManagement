@@ -1,3 +1,3 @@
-- il faut sauver le soldat vache
+- le soldat vache semble en bonne voie
 
-- Faire dire des trucs intéressants à ladite vache
+- mais là, pour l'instant, je dois REFACTO
